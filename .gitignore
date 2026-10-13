@@ -1,0 +1,58 @@
+
+# ==========================================
+# Mathematica / Wolfram Language research
+# ==========================================
+
+# --- Operating system files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# --- Mathematica notebook backup files ---
+*.nb~
+*.nb.bak
+*.wl~
+*.wl.bak
+*.m~
+*.m.bak
+
+# --- Generated Wolfram Language binary files ---
+# Usually generated locally; remove this rule if an .mx file
+# is an intentional, required project deliverable.
+*.mx
+
+# --- Editor / IDE files ---
+.vscode/
+.idea/
+
+# --- Python files, if used for supporting calculations ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# --- Jupyter checkpoints, if used ---
+.ipynb_checkpoints/
+
+# --- Local environment and secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Optional: local output directories ---
+# Uncomment only if these directories contain reproducible
+# outputs that you deliberately do NOT want to version.
+# output/
+# cache/
+# temporary-results/
