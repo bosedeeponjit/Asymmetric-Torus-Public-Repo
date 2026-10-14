@@ -1,4 +1,4 @@
-# Asymmetric Noncommutative Torus
+# Asymmetric Noncommutative Torus has vanishing Einstein tensor [arXiv:2511.15539]
 
 ## Overview
 
